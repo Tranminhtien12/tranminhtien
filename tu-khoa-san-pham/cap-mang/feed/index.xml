@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cáp mạng &#8211; TMT shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/cap-mang/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Wed, 23 Jun 2021 09:13:22 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/06/logo2.jpg</url>
+	<title>cáp mạng &#8211; TMT shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Cáp mạng đầu đúc Cat7 SSTP 1m Vention VPC7SSTP-B100</title>
+		<link>./../../../sản%20phẩm/cap-mang-dau-duc-cat7-sstp-1m-vention-vpc7sstp-b100/index.html</link>
+					<comments>./../../../sản%20phẩm/cap-mang-dau-duc-cat7-sstp-1m-vention-vpc7sstp-b100/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:13:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=211</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/cap-mang-dau-duc-cat7-sstp-1m-vention-vpc7sstp-b100/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

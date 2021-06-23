@@ -8,17 +8,25 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; My wordpress</title>
+	<title>Uncategorized &#8211; TMT shop</title>
 	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Jun 2021 13:48:17 +0000</lastBuildDate>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Wed, 16 Jun 2021 13:44:57 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/06/logo2.jpg</url>
+	<title>Uncategorized &#8211; TMT shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Tất cả bài viết</title>
 		<link>./../../../uncategorized/117/index.html</link>

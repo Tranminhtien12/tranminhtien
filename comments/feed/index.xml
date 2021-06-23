@@ -7,15 +7,43 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My wordpress	</title>
+	Bình luận cho TMT shop	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Jun 2021 13:48:39 +0000</lastBuildDate>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Wed, 23 Jun 2021 08:27:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+	<item>
+		<title>
+		Phản hồi cho Đánh giá Laptop MSI Gaming GF63 10SC (020VN) &#124; Cỗ Máy Chiến Game Bền Bỉ bởi trần minh tiến		</title>
+		<link>./../../sản%20phẩm/danh-gia-laptop-msi-gaming-gf63-10sc-020vn-co-may-chien-game-ben-bi/index.html#comment-7</link>
+
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 13:15:19 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=140#comment-7</guid>
+
+					<description><![CDATA[máy xịn xò thật sự cảm ơn shop]]></description>
+			<content:encoded><![CDATA[<p>máy xịn xò thật sự cảm ơn shop</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Phản hồi cho Đánh giá Laptop Acer Gaming Aspire 7 A715-41G-R282 (NH.Q8SSV.005) bởi trần minh tiến		</title>
+		<link>./../../sản%20phẩm/danh-gia-laptop-acer-gaming-aspire-7-a715-41g-r282-nh-q8ssv-005/index.html#comment-6</link>
+
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 13:07:14 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=130#comment-6</guid>
+
+					<description><![CDATA[máy tính xài khá chất lượng :)]]></description>
+			<content:encoded><![CDATA[<p>máy tính xài khá chất lượng 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

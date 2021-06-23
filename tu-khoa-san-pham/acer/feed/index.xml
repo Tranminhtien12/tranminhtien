@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>acer &#8211; TMT shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/acer/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Tue, 22 Jun 2021 02:23:18 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/06/logo2.jpg</url>
+	<title>acer &#8211; TMT shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Đánh giá Laptop Acer Gaming Aspire 7 A715-41G-R282 (NH.Q8SSV.005)</title>
+		<link>./../../../sản%20phẩm/danh-gia-laptop-acer-gaming-aspire-7-a715-41g-r282-nh-q8ssv-005/index.html</link>
+					<comments>./../../../sản%20phẩm/danh-gia-laptop-acer-gaming-aspire-7-a715-41g-r282-nh-q8ssv-005/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 13:05:46 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=130</guid>
+
+					<description><![CDATA[Thông số cơ bản Hãng sản xuất Acer Chủng loại Aspire 7 A715-41G-R282 – model Giải trí, Gaming Part Number NH.Q8SSV.005 Màu sắc Black Bộ vi xử lý AMD Ryzen™ 5 3550H Chipset AMD Bộ nhớ trong 8GB DDR4]]></description>
+										<content:encoded><![CDATA[<h2>Thông số cơ bản</h2>
+<table style="height: 398px;" width="905">
+<tbody>
+<tr>
+<th>Hãng sản xuất</th>
+<th>Acer</th>
+</tr>
+<tr>
+<td>Chủng loại</td>
+<td>Aspire 7 A715-41G-R282 – model Giải trí, Gaming</td>
+</tr>
+<tr>
+<td>Part Number</td>
+<td>NH.Q8SSV.005</td>
+</tr>
+<tr>
+<td>Màu sắc</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Bộ vi xử lý</td>
+<td>AMD Ryzen<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 5 3550H</td>
+</tr>
+<tr>
+<td>Chipset</td>
+<td>AMD</td>
+</tr>
+<tr>
+<td>Bộ nhớ trong</td>
+<td>8GB DDR4</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../sản%20phẩm/danh-gia-laptop-acer-gaming-aspire-7-a715-41g-r282-nh-q8ssv-005/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

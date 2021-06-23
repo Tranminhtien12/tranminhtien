@@ -8,16 +8,331 @@
 	>
 
 <channel>
-	<title>Sản phẩm &#8211; My wordpress</title>
+	<title>Sản phẩm &#8211; TMT shop</title>
 	<atom:link href="http://localhost/myproject/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Jun 2021 13:48:39 +0000</lastBuildDate>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Wed, 23 Jun 2021 09:36:38 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-</channel>
+
+<image>
+	<url>./../../wp-content/uploads/2021/06/logo2.jpg</url>
+	<title>Sản phẩm &#8211; TMT shop</title>
+	<link>./../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Laptop Dell Inspiron 5406 (i7 1165G7/8GB RAM/ 512GB SSD/MX330 2G/14.0FHD Touch/Win 10)</title>
+		<link>./../../sản%20phẩm/laptop-dell-inspiron-5406-i7-1165g7-8gb-ram-512gb-ssd-mx330-2g-14-0fhd-touch-win-10/index.html</link>
+					<comments>./../../sản%20phẩm/laptop-dell-inspiron-5406-i7-1165g7-8gb-ram-512gb-ssd-mx330-2g-14-0fhd-touch-win-10/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:36:38 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=227</guid>
+
+					<description><![CDATA[Hãng sản xuất Dell Chủng loại Inspiron 5406 – Bảo hành tận nơi Part Number TYCJN1 Mầu sắc Xám Bộ vi xử lý Intel Core i7 1165G7 (2.8Ghz /12MB cache) Chipset Intel Bộ nhớ trong 8GB DDR4 3200MHz]]></description>
+										<content:encoded><![CDATA[<table>
+<tbody>
+<tr>
+<td width="139">Hãng sản xuất</td>
+<td width="389">Dell</td>
+</tr>
+<tr>
+<td width="139">Chủng loại</td>
+<td width="389">Inspiron 5406 – Bảo hành tận nơi</td>
+</tr>
+<tr>
+<td width="139">Part Number</td>
+<td width="389">TYCJN1</td>
+</tr>
+<tr>
+<td width="139">Mầu sắc</td>
+<td width="389">Xám</td>
+</tr>
+<tr>
+<td width="139">Bộ vi xử lý</td>
+<td width="389">Intel Core i7 1165G7 (2.8Ghz /12MB cache)</td>
+</tr>
+<tr>
+<td width="139">Chipset</td>
+<td width="389">Intel</td>
+</tr>
+<tr>
+<td width="139">Bộ nhớ trong</td>
+<td width="389">8GB DDR4 3200MHz</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/laptop-dell-inspiron-5406-i7-1165g7-8gb-ram-512gb-ssd-mx330-2g-14-0fhd-touch-win-10/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Laptop Dell Vostro 3590B (i5 10210U/8GBRam/256GB SSD/ 15.6 inch FHD/AMD 610 2G/DVDRW/Win10)</title>
+		<link>./../../sản%20phẩm/laptop-dell-vostro-3590b-i5-10210u-8gbram-256gb-ssd-15-6-inch-fhd-amd-610-2g-dvdrw-win10/index.html</link>
+					<comments>./../../sản%20phẩm/laptop-dell-vostro-3590b-i5-10210u-8gbram-256gb-ssd-15-6-inch-fhd-amd-610-2g-dvdrw-win10/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:32:28 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=223</guid>
+
+					<description><![CDATA[Hãng sản xuất Dell Chủng loại Vostro 3590 – Bảo hành tại nhà Part number P75F010N90B Mầu sắc Đen Bộ vi xử lý Intel Core i5-10210U (1.6Ghz/6MB cache) _ thế hệ 10 mới nhất Chipset Intel Bộ nhớ trong 8GB DDR4 2666Mhz]]></description>
+										<content:encoded><![CDATA[<table>
+<tbody>
+<tr>
+<td width="139">Hãng sản xuất</td>
+<td width="388">Dell</td>
+</tr>
+<tr>
+<td width="139">Chủng loại</td>
+<td width="388">Vostro 3590 – Bảo hành tại nhà</td>
+</tr>
+<tr>
+<td width="139">Part number</td>
+<td width="388">P75F010N90B</td>
+</tr>
+<tr>
+<td width="139">Mầu sắc</td>
+<td width="388">Đen</td>
+</tr>
+<tr>
+<td width="139">Bộ vi xử lý</td>
+<td width="388">Intel Core i5-10210U (1.6Ghz/6MB cache) _ thế hệ 10 mới nhất</td>
+</tr>
+<tr>
+<td width="139">Chipset</td>
+<td width="388">Intel</td>
+</tr>
+<tr>
+<td width="139">Bộ nhớ trong</td>
+<td width="388">8GB DDR4 2666Mhz</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/laptop-dell-vostro-3590b-i5-10210u-8gbram-256gb-ssd-15-6-inch-fhd-amd-610-2g-dvdrw-win10/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tai nghe Sony MDR-EX155AP Trắng</title>
+		<link>./../../sản%20phẩm/tai-nghe-sony-mdr-ex155ap-trang/index.html</link>
+					<comments>./../../sản%20phẩm/tai-nghe-sony-mdr-ex155ap-trang/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:25:13 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=221</guid>
+
+					<description><![CDATA[Hãng sản xuất SONY Chủng loại IN-EAR Tai nghe MDR-EX155AP(Trắng) Chuẩn cắm hỗ trợ Jack 3.5mm Microphone Có]]></description>
+										<content:encoded><![CDATA[<table>
+<tbody>
+<tr>
+<td>Hãng sản xuất</td>
+<td>SONY</td>
+</tr>
+<tr>
+<td>Chủng loại</td>
+<td>IN-EAR Tai nghe MDR-EX155AP(Trắng)</td>
+</tr>
+<tr>
+<td>Chuẩn cắm hỗ trợ</td>
+<td>Jack 3.5mm</td>
+</tr>
+<tr>
+<td>Microphone</td>
+<td>Có</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/tai-nghe-sony-mdr-ex155ap-trang/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tai nghe Microlab K310</title>
+		<link>./../../sản%20phẩm/tai-nghe-microlab-k310/index.html</link>
+					<comments>./../../sản%20phẩm/tai-nghe-microlab-k310/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:22:12 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=219</guid>
+
+					<description><![CDATA[Hãng sản xuất Microlab Chủng loại K310 Chuẩn cắm hỗ trợ Jack 3.5 mm x1 Microphone Có]]></description>
+										<content:encoded><![CDATA[<table>
+<tbody>
+<tr>
+<td>Hãng sản xuất</td>
+<td>Microlab</td>
+</tr>
+<tr>
+<td>Chủng loại</td>
+<td>K310</td>
+</tr>
+<tr>
+<td>Chuẩn cắm hỗ trợ</td>
+<td>Jack 3.5 mm x1</td>
+</tr>
+<tr>
+<td>Microphone</td>
+<td>Có</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/tai-nghe-microlab-k310/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tai nghe Gaming Corsair HS60 HAPTIC Surround 7.1 CA-9011225-AP</title>
+		<link>./../../sản%20phẩm/tai-nghe-gaming-corsair-hs60-haptic-surround-7-1-ca-9011225-ap/index.html</link>
+					<comments>./../../sản%20phẩm/tai-nghe-gaming-corsair-hs60-haptic-surround-7-1-ca-9011225-ap/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:17:58 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=213</guid>
+
+					<description><![CDATA[Thông số cơ bản Brand Corsair Model HS60 HAPTIC Color Camo Audio Stereo Lighting None Platform PC Audio Product Headset]]></description>
+										<content:encoded><![CDATA[<h2>Thông số cơ bản</h2>
+<table>
+<tbody>
+<tr>
+<th>Brand</th>
+<th>Corsair</th>
+</tr>
+<tr>
+<td>Model</td>
+<td>HS60 HAPTIC</td>
+</tr>
+<tr>
+<td>Color</td>
+<td>Camo</td>
+</tr>
+<tr>
+<td>Audio</td>
+<td>Stereo</td>
+</tr>
+<tr>
+<td>Lighting</td>
+<td>None</td>
+</tr>
+<tr>
+<td>Platform</td>
+<td>PC</td>
+</tr>
+<tr>
+<td>Audio Product</td>
+<td>Headset</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/tai-nghe-gaming-corsair-hs60-haptic-surround-7-1-ca-9011225-ap/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cáp mạng đầu đúc Cat7 SSTP 1m Vention VPC7SSTP-B100</title>
+		<link>./../../sản%20phẩm/cap-mang-dau-duc-cat7-sstp-1m-vention-vpc7sstp-b100/index.html</link>
+					<comments>./../../sản%20phẩm/cap-mang-dau-duc-cat7-sstp-1m-vention-vpc7sstp-b100/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:13:21 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=211</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/cap-mang-dau-duc-cat7-sstp-1m-vention-vpc7sstp-b100/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cáp sạc 3 trong 1 Orico UTS-12 Lightning/Type C/Micro B (Đen, xanh, đỏ)</title>
+		<link>./../../sản%20phẩm/cap-sac-3-trong-1-orico-uts-12-lightning-type-c-micro-b-den-xanh-do/index.html</link>
+					<comments>./../../sản%20phẩm/cap-sac-3-trong-1-orico-uts-12-lightning-type-c-micro-b-den-xanh-do/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:10:48 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=208</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/cap-sac-3-trong-1-orico-uts-12-lightning-type-c-micro-b-den-xanh-do/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bàn phím Laptop Dell 5547, 3568 (Zin)</title>
+		<link>./../../sản%20phẩm/ban-phim-laptop-dell-5547-3568-zin/index.html</link>
+					<comments>./../../sản%20phẩm/ban-phim-laptop-dell-5547-3568-zin/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:07:32 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=206</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/ban-phim-laptop-dell-5547-3568-zin/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bàn phím Laptop HP PROBOOK 450 Có khung</title>
+		<link>./../../sản%20phẩm/ban-phim-laptop-hp-probook-450-co-khung/index.html</link>
+					<comments>./../../sản%20phẩm/ban-phim-laptop-hp-probook-450-co-khung/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 09:04:31 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=203</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/ban-phim-laptop-hp-probook-450-co-khung/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bàn phím Laptop Dell 5460</title>
+		<link>./../../sản%20phẩm/ban-phim-laptop-dell-5460/index.html</link>
+					<comments>./../../sản%20phẩm/ban-phim-laptop-dell-5460/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 23 Jun 2021 08:59:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../index.html?post_type=product&#038;p=201</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>./../../sản%20phẩm/ban-phim-laptop-dell-5460/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
 </rss>

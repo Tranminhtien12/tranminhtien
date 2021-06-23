@@ -8,42 +8,26 @@
 	>
 
 <channel>
-	<title>My wordpress</title>
+	<title>TMT shop</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Fri, 11 Jun 2021 13:48:39 +0000</lastBuildDate>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Wed, 23 Jun 2021 08:52:13 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../wp-content/uploads/2021/06/logo2.jpg</url>
+	<title>TMT shop</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
-		<title>laptop gaming</title>
-		<link>./../laptop/laptop-gaming-2/index.html</link>
-					<comments>./../laptop/laptop-gaming-2/index.html#respond</comments>
-		
-		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
-		<pubDate>Fri, 11 Jun 2021 13:47:28 +0000</pubDate>
-				<category><![CDATA[laptop]]></category>
-		<guid isPermaLink="false">./../index.html?p=122</guid>
-
-					<description><![CDATA[Laptop gaming cực xịn]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-large is-resized"><a href="./../laptop/laptop-gaming/index.html"><img loading="lazy" src="./../wp-content/uploads/2021/06/image005_7-4.jpg" alt="" class="wp-image-114" width="842" height="561"/></a></figure>
-
-
-
-<p class="has-text-align-center has-black-color has-text-color" style="font-size:29px"><strong><a href="./../laptop/laptop-gaming/index.html" data-type="URL" data-id="./../laptop/laptop-gaming/index.html" target="_blank" rel="noreferrer noopener">Laptop gaming cực xịn</a></strong></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>./../laptop/laptop-gaming-2/feed/index.html</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Tất cả bài viết</title>
 		<link>./../uncategorized/117/index.html</link>
 					<comments>./../uncategorized/117/index.html#respond</comments>
@@ -85,7 +69,7 @@
 				<category><![CDATA[laptop]]></category>
 		<guid isPermaLink="false">./../index.html?p=59</guid>
 
-					<description><![CDATA[Hãng sản xuất MSI Chủng loại Bravo 15 A4DCR (2020) Part Number 270VN Mầu sắc Đen Bộ vi xử lý AMD Ryzen 5-4600H Chipset Intel® HM470 Bộ nhớ trong 8GB DDR4 (3200Mhz) Số khe cắm 2 Laptop Asus Gaming ROG Zephyrus GA401IU-HA075T Chủng loại GF75 Thin 10SC Part Number 013VN Mầu sắc Đen Bộ vi &#8230; ]]></description>
+					<description><![CDATA[Hãng sản xuất MSI Chủng loại Bravo 15 A4DCR (2020) Part Number 270VN Mầu sắc Đen Bộ vi xử lý AMD Ryzen 5-4600H Chipset Intel® HM470 Bộ nhớ trong 8GB DDR4 (3200Mhz) Số khe cắm 2 Laptop Asus Gaming ROG Zephyrus GA401IU-HA075T Chủng loại GF75 Thin 10SC Part Number 013VN Mầu sắc Đen Bộ vi [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-block-columns">
 <div class="wp-block-column">
@@ -155,22 +139,22 @@
 				<category><![CDATA[laptop]]></category>
 		<guid isPermaLink="false">./../index.html?p=23</guid>
 
-					<description><![CDATA[MSI GF63 Gaming GF63 10SCXR 052VN i7 10750H CPU Intel Core i7-10750H RAM 8 GB, DDR4, 3200 MHz Màn hình 15.6&#8243;, 1920 x 1080 Pixel, IPS, 60 Hz Đồ họa NVIDIA GeForce GTX 1650 Max-Q 4 GB &#38; Intel UHD Graphics Ổ cứng SSD 512 GB Hệ điều hành Windows 10 Trọng lượng (kg) 1.86 &#8230; ]]></description>
+					<description><![CDATA[Đánh giá Laptop MSI Gaming GF63 10SC (020VN) &#124; Cỗ Máy Chiến Game Bền Bỉ CPU Intel Core i7-10750H RAM 8 GB, DDR4, 3200 MHz Màn hình 15.6&#8243;, 1920 x 1080 Pixel, IPS, 60 Hz Đồ họa NVIDIA GeForce GTX 1650 Max-Q 4 GB &#38; Intel UHD Graphics Ổ cứng SSD 512 GB Hệ điều [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p class="has-black-color has-text-color" style="font-size:25px"><strong><a href="https://www.hanoicomputer.vn/laptop-asus-gaming-rog-zephyrus-ga401iu-ha075t-xam" data-type="URL" data-id="https://www.hanoicomputer.vn/laptop-asus-gaming-rog-zephyrus-ga401iu-ha075t-xam" target="_blank" rel="noreferrer noopener">MSI GF63 Gaming GF63 10SCXR 052VN i7 10750H</a></strong></p>
+<p class="has-black-color has-text-color" style="font-size:25px"><strong><a href="./../s%E1%BA%A3n%20ph%E1%BA%A9m/danh-gia-laptop-msi-gaming-gf63-10sc-020vn-co-may-chien-game-ben-bi/index.html" data-type="URL" data-id="./../s%E1%BA%A3n%20ph%E1%BA%A9m/danh-gia-laptop-msi-gaming-gf63-10sc-020vn-co-may-chien-game-ben-bi/index.html">Đánh giá Laptop MSI Gaming GF63 10SC (020VN) | Cỗ Máy Chiến Game Bền Bỉ</a></strong></p>
 
 
 
 <div class="wp-block-columns">
 <div class="wp-block-column" style="flex-basis:50%">
 <div class="wp-block-group"><div class="wp-block-group__inner-container">
-<div class="wp-block-cover has-white-background-color" style="min-height:358px"><img loading="lazy" width="640" height="480" class="wp-block-cover__image-background wp-image-39" alt="" src="./../wp-content/uploads/2021/06/AA0S_1_201904031329572953.jpg" style="object-position:90% 45%" data-object-fit="cover" data-object-position="90% 45%"/><div class="wp-block-cover__inner-container">
+<div class="wp-block-cover has-white-background-color" style="min-height:358px"><img loading="lazy" width="850" height="850" class="wp-block-cover__image-background wp-image-199" alt="" src="./../wp-content/uploads/2021/06/msi1-1.jpg" style="object-position:90% 45%" data-object-fit="cover" data-object-position="90% 45%"/><div class="wp-block-cover__inner-container">
 <p></p>
 </div></div>
 
 
 
-<p class="has-text-align-center has-vivid-red-color has-text-color" style="font-size:33px">           <strong>22.490.000đ</strong></p>
+<p class="has-text-align-center has-vivid-red-color has-text-color" style="font-size:33px">           <strong>21,589,000đ</strong></p>
 </div></div>
 </div>
 
@@ -183,17 +167,17 @@
 
 
 
-<p class="has-black-color has-text-color" style="font-size:25px"><a href="https://www.hanoicomputer.vn/laptop-asus-gaming-rog-zephyrus-ga401iu-ha075t-xam"><strong>Laptop Asus Gaming ROG Zephyrus GA401IU-HA075T </strong></a></p>
+<p class="has-black-color has-text-color" style="font-size:25px"><strong><a href="./../s%E1%BA%A3n%20ph%E1%BA%A9m/145/index.html" data-type="URL" data-id="./../s%E1%BA%A3n%20ph%E1%BA%A9m/145/index.html">Laptop Asus Gaming ROG Strix G533QM-HQ074T (Ryzen 9 5900HX/2*8GB RAM/1TB SSD/15.6 QWHD 165hz/RTX 3060 6GB)</a></strong></p>
 
 
 
 <div class="wp-block-columns">
 <div class="wp-block-column">
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/06/R13af40d1eeef791d94fce6983a648301-1.jpg" alt="" class="wp-image-104" width="403" height="270"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/06/asus1-1.jpg" alt="" class="wp-image-196" width="345" height="348"/></figure>
 
 
 
-<p class="has-text-align-center has-vivid-red-color has-text-color" style="font-size:33px"><strong>15.490.000đ</strong></p>
+<p class="has-text-align-center has-vivid-red-color has-text-color" style="font-size:33px"><strong>27,999,000đ</strong></p>
 </div>
 
 
@@ -207,15 +191,15 @@
 
 <div class="wp-block-columns">
 <div class="wp-block-column">
-<p class="has-black-color has-text-color" style="font-size:21px"><strong><a href="https://www.hanoicomputer.vn/laptop-msi-gaming-gl75-leopard-10sdr-495vn-den-2020" data-type="URL" data-id="https://www.hanoicomputer.vn/laptop-msi-gaming-gl75-leopard-10sdr-495vn-den-2020" target="_blank" rel="noreferrer noopener">Laptop MSI Gaming GL75 Leopard 10SDR </a></strong></p>
+<p class="has-black-color has-text-color" style="font-size:21px"><strong><a href="./../s%E1%BA%A3n%20ph%E1%BA%A9m/laptop-msi-gaming-gl75-leopard-10sdr-i7-10750h-16gbram-512gb-ssd-gtx-1660ti-6g-17-3-inch-fhd-144hz/index.html" data-type="URL" data-id="./../s%E1%BA%A3n%20ph%E1%BA%A9m/laptop-msi-gaming-gl75-leopard-10sdr-i7-10750h-16gbram-512gb-ssd-gtx-1660ti-6g-17-3-inch-fhd-144hz/index.html">Laptop MSI Gaming GL75 Leopard 10SDR </a></strong></p>
 
 
 
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/06/Rdfeeea7ee90228583f489f797ca64143.jpg" alt="" class="wp-image-107" width="417" height="251"/></figure>
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="./../wp-content/uploads/2021/06/msia-1.png" alt="" class="wp-image-194" width="380" height="237"/></figure>
 
 
 
-<p class="has-text-align-center has-vivid-red-color has-text-color" style="font-size:33px"><strong>13.490.000đ</strong></p>
+<p class="has-text-align-center has-vivid-red-color has-text-color" style="font-size:33px"><strong><strong>32.289.000</strong>đ</strong></p>
 </div>
 
 
