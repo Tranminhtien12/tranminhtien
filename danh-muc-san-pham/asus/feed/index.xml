@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>asus &#8211; TMT shop</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/asus/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>ổn định về giá chất lượng về hàng </description>
+	<lastBuildDate>Sat, 03 Jul 2021 14:23:15 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/06/logo2.jpg</url>
+	<title>asus &#8211; TMT shop</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>LAPTOP ASUS X205T</title>
+		<link>./../../../product/laptop-asus-x205t/index.html</link>
+					<comments>./../../../product/laptop-asus-x205t/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Sat, 03 Jul 2021 13:36:06 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=243</guid>
+
+					<description><![CDATA[CPU INTEL CPU Z3735F 1.33G RAM 2G HDD SSD 32G Ổ QUANG VGA INTEL HD 1G DISPLAY 12.0 LED, WEBCAM]]></description>
+										<content:encoded><![CDATA[<table class="tinnoidungtext" border="1" width="380" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td width="25%">CPU</td>
+<td width="75%">INTEL CPU Z3735F 1.33G</td>
+</tr>
+<tr>
+<td>RAM</td>
+<td>2G</td>
+</tr>
+<tr>
+<td>HDD</td>
+<td>SSD 32G</td>
+</tr>
+<tr>
+<td>Ổ QUANG</td>
+<td></td>
+</tr>
+<tr>
+<td>VGA</td>
+<td>INTEL HD 1G</td>
+</tr>
+<tr>
+<td>DISPLAY</td>
+<td>12.0 LED, WEBCAM</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/laptop-asus-x205t/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Laptop Asus Gaming ROG Strix G533QM-HQ074T (Ryzen 9 5900HX/2*8GB RAM/1TB SSD/15.6 QWHD 165hz/RTX 3060 6GB)</title>
+		<link>./../../../product/145/index.html</link>
+					<comments>./../../../product/145/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[trần minh tiến]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 13:30:33 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product&#038;p=145</guid>
+
+					<description><![CDATA[Thông số cơ bản Hãng sản xuất ASUS Chủng loại 90NR0541-M01620 Weight 2.30 Kg Màu sắc Black Bộ vi xử lý AMD Ryzen™ 9 5900HX Processor 3.3 GHz (16M Cache, up to 4.6 GHz) Chipset N/A Bộ nhớ trong 6GB GDDR6]]></description>
+										<content:encoded><![CDATA[<h2>Thông số cơ bản</h2>
+<table>
+<tbody>
+<tr>
+<th>Hãng sản xuất</th>
+<th>ASUS</th>
+</tr>
+<tr>
+<td>Chủng loại</td>
+<td>90NR0541-M01620</td>
+</tr>
+<tr>
+<td>Weight</td>
+<td>2.30 Kg</td>
+</tr>
+<tr>
+<td>Màu sắc</td>
+<td>Black</td>
+</tr>
+<tr>
+<td>Bộ vi xử lý</td>
+<td>AMD Ryzen<img src="https://s.w.org/images/core/emoji/13.0.1/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> 9 5900HX Processor 3.3 GHz</p>
+<p>(16M Cache, up to 4.6 GHz)</td>
+</tr>
+<tr>
+<td>Chipset</td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Bộ nhớ trong</td>
+<td>6GB GDDR6</td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/145/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

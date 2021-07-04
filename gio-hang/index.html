@@ -151,6 +151,7 @@ img.emoji {
 <link rel="stylesheet" id="dwas_styles-css" href="./../wp-content/plugins/woo-vietnam-checkout/assets/css/devvn_dwas_style.css?ver=2.0.4" media="all">
 <link rel="stylesheet" id="select2-css" href="./../wp-content/plugins/woocommerce/assets/css/select2.css?ver=5.4.1" media="all">
 <style id="woocommerce-inline-inline-css">.woocommerce form .form-row .required { visibility: visible; }</style>
+<link rel="stylesheet" id="182a0a8e1-css" href="./../wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1625397989" media="all">
 <link rel="stylesheet" id="storefront-style-css" href="./../wp-content/themes/storefront/style.css?ver=3.7.0" media="all">
 <style id="storefront-style-inline-css">.main-navigation ul li a,
 			.site-title a,
@@ -197,7 +198,7 @@ img.emoji {
 			.storefront-handheld-footer-bar ul li.search .site-search,
 			button.menu-toggle,
 			button.menu-toggle:hover {
-				background-color: #7a7a7a;
+				background-color: #333333;
 			}
 
 			p.site-description,
@@ -300,7 +301,7 @@ img.emoji {
 			}
 
 			.site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6, .site-footer .widget .widget-title, .site-footer .widget .widgettitle {
-				color: #333333;
+				color: #545454;
 			}
 
 			.page-template-template-homepage.has-post-thumbnail .type-page.has-post-thumbnail .entry-title {
@@ -322,11 +323,11 @@ img.emoji {
 
 				.main-navigation ul.menu ul.sub-menu,
 				.main-navigation ul.nav-menu ul.children {
-					background-color: #6b6b6b;
+					background-color: #242424;
 				}
 
 				.site-header {
-					border-bottom-color: #6b6b6b;
+					border-bottom-color: #242424;
 				}
 			}</style>
 <link rel="stylesheet" id="storefront-icons-css" href="./../wp-content/themes/storefront/assets/css/base/icons.css?ver=3.7.0" media="all">
@@ -373,8 +374,8 @@ img.emoji {
 
 			.storefront-handheld-footer-bar ul li.cart .count {
 				background-color: #ffffff;
-				color: #7a7a7a;
-				border-color: #7a7a7a;
+				color: #333333;
+				border-color: #333333;
 			}
 
 			.woocommerce-tabs ul.tabs li.active a,
@@ -529,11 +530,11 @@ img.emoji {
 
 				.site-header-cart .widget_shopping_cart .buttons,
 				.site-header-cart .widget_shopping_cart .total {
-					background-color: #707070;
+					background-color: #292929;
 				}
 
 				.site-header-cart .widget_shopping_cart {
-					background-color: #6b6b6b;
+					background-color: #242424;
 				}
 			}
 				.storefront-product-pagination a {
@@ -569,13 +570,13 @@ img.emoji {
 <meta name="msapplication-TileImage" content="./wp-content/uploads/2021/06/logo2.jpg">
 </head>
 
-<body class="page-template-default page page-id-31 custom-background wp-embed-responsive theme-storefront woocommerce-cart woocommerce-page woocommerce-no-js storefront-align-wide right-sidebar woocommerce-active">
+<body class="page-template-default page page-id-31 custom-background wp-embed-responsive theme-storefront woocommerce-cart woocommerce-page woocommerce-no-js storefront-align-wide right-sidebar woocommerce-active elementor-default elementor-kit-236">
 
 
 
 <div id="page" class="hfeed site">
 	
-	<header id="masthead" class="site-header" role="banner" style="background-image: url(./wp-content/uploads/2021/06/acer-nitro-5.jpg); ">
+	<header id="masthead" class="site-header" role="banner" style="">
 
 		<div class="col-full">		<a class="skip-link screen-reader-text" href="#site-navigation">Đi đến Điều hướng</a>
 		<a class="skip-link screen-reader-text" href="#content">Chuyển đến nội dung</a>
@@ -600,7 +601,14 @@ img.emoji {
 <li id="menu-item-127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-127"><a href="./../cua-hang/index.html">Cửa hàng</a></li>
 <li id="menu-item-126" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-31 current_page_item menu-item-126"><a href="./index.html" aria-current="page">Giỏ hàng</a></li>
 <li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="./../thanh-toan/index.html">Thanh toán</a></li>
-<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="./../tai-khoan/index.html">Tài khoản</a></li>
+<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-124">
+<a href="./../tai-khoan/index.html">Tài khoản</a>
+<ul class="sub-menu">
+	<li id="menu-item-385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-385"><a href="./../tai-khoan/orders/index.html">Đơn hàng</a></li>
+	<li id="menu-item-386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-386"><a href="./../tai-khoan/edit-address/index.html">Địa chỉ</a></li>
+	<li id="menu-item-384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-384"><a href="./../tai-khoan/lost-password/index.html">Quên mật khẩu</a></li>
+</ul>
+</li>
 </ul></div>
 <div class="menu"><ul>
 <li><a href="./../index.html">Trang chủ</a></li>
@@ -655,33 +663,39 @@ img.emoji {
 
 <div id="secondary" class="widget-area" role="complementary">
 	<div id="woocommerce_product_categories-3" class="widget woocommerce widget_product_categories">
-<span class="gamma widget-title">Danh mục sản phẩm</span><ul class="product-categories">
-<li class="cat-item cat-item-16"><a href="./../danh-muc-san-pham/chua-phan-loai/index.html">Chưa phân loại</a></li>
-<li class="cat-item cat-item-22"><a href="./../danh-muc-san-pham/laptop/index.html">laptop</a></li>
-<li class="cat-item cat-item-26"><a href="./../danh-muc-san-pham/laptop-gaming/index.html">laptop gaming</a></li>
-<li class="cat-item cat-item-28"><a href="./../danh-muc-san-pham/phu-kien-laptop/index.html">phụ kiện laptop</a></li>
-<li class="cat-item cat-item-27"><a href="./../danh-muc-san-pham/sale-off/index.html">sale off</a></li>
-</ul>
+<span class="gamma widget-title">Danh mục sản phẩm</span><select name="product_cat" id="product_cat" class="dropdown_product_cat">
+	<option value="" selected>Chọn danh mục</option>
+	<option class="level-0" value="acer">acer&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="asus">asus&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="chua-phan-loai">Chưa phân loại&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="dell">dell&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="laptop">laptop&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="laptop-gaming">laptop gaming&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="lenovo">lenovo&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="msi">MSI&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="phu-kien-laptop">phụ kiện laptop&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="sale-off">sale off&nbsp;&nbsp;(1)</option>
+</select>
 </div>
 <div id="woocommerce_products-2" class="widget woocommerce widget_products">
 <span class="gamma widget-title">Sản phẩm</span><ul class="product_list_widget">
 <li>
 	
-	<a href="./../product/laptop-dell-inspiron-5406-i7-1165g7-8gb-ram-512gb-ssd-mx330-2g-14-0fhd-touch-win-10/index.html">
-		<img width="324" height="324" src="./../wp-content/uploads/2021/06/dell4.png" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy">		<span class="product-title">Laptop Dell Inspiron 5406 (i7 1165G7/8GB RAM/ 512GB SSD/MX330 2G/14.0FHD Touch/Win 10)</span>
+	<a href="./../product/chuot-khong-day-logitech-mx-master-3-den/index.html">
+		<img width="324" height="216" src="./../wp-content/uploads/2021/07/chuot3.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy">		<span class="product-title">Chuột không dây Logitech MX Master 3 Đen</span>
 	</a>
 
-				
-	<span class="woocommerce-Price-amount amount"><bdi>26,489,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+			<div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>	
+	<span class="woocommerce-Price-amount amount"><bdi>999,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
 	</li>
 <li>
 	
-	<a href="./../product/laptop-dell-vostro-3590b-i5-10210u-8gbram-256gb-ssd-15-6-inch-fhd-amd-610-2g-dvdrw-win10/index.html">
-		<img width="324" height="324" src="./../wp-content/uploads/2021/06/dell1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy">		<span class="product-title">Laptop Dell Vostro 3590B (i5 10210U/8GBRam/256GB SSD/ 15.6 inch FHD/AMD 610 2G/DVDRW/Win10)</span>
+	<a href="./../product/chuot-co-day-rapoo-n200-den/index.html">
+		<img width="324" height="216" src="./../wp-content/uploads/2021/07/chuot1.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy">		<span class="product-title">Chuột Có Dây Rapoo N200 Đen</span>
 	</a>
 
-				
-	<span class="woocommerce-Price-amount amount"><bdi>15,799,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
+			<div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div>	
+	<span class="woocommerce-Price-amount amount"><bdi>100,000&nbsp;<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
 	</li>
 </ul>
 </div>
@@ -697,15 +711,23 @@ img.emoji {
 	<footer id="colophon" class="site-footer" role="contentinfo">
 		<div class="col-full">
 
-							<div class="footer-widgets row-1 col-4 fix">
+							<div class="footer-widgets row-1 col-3 fix">
 									<div class="block footer-widget-1">
-						<div id="search-4" class="widget widget_search"><form role="search" method="get" class="search-form" action="./../index.html">
-				<label>
-					<span class="screen-reader-text">Tìm kiếm cho:</span>
-					<input type="search" class="search-field" placeholder="Tìm kiếm &hellip;" value="" name="s">
-				</label>
-				<input type="submit" class="search-submit" value="Tìm kiếm">
-			</form></div>					</div>
+						<div id="text-4" class="widget widget_text">			<div class="textwidget">
+<h5 class="widget-title">
+<span style="font-size: 16px;">SHOWROOM BÁN HÀNG                                     </span><strong style="font-size: 16px;">          Địa chỉ:</strong><span style="font-size: 16px;"> 617 Đường 3 tháng 2, Phường 8, Quận 10, TP. Hồ Chí Minh                                           </span><strong style="font-size: 16px;">       Hotline:</strong><span style="font-size: 16px;"> </span><a style="font-size: 16px;" href="tel:0903344188">0903 344 188</a><span style="font-size: 16px;"> &#8211; </span><a style="font-size: 16px;" href="tel:0908115124">0908 115 124</a>                  TRUNG TÂM BẢO HÀNH VÀ KỸ THUẬT                                                         <strong style="font-size: 16px;">Địa chỉ:</strong><span style="font-size: 16px;"> 530 Đường 3 tháng 2 , Phường 14, Quận 10, TP. Hồ Chí Minh                              </span><strong style="font-size: 16px;">                 Hotline hỗ trợ kỹ thuật:</strong><span style="font-size: 16px;"> </span><a style="font-size: 16px;" href="tel:0909054758">0909 054 758</a><span style="font-size: 16px;"> &#8211; </span><a style="font-size: 16px;" href="tel:0909113932">0909 113 932</a><span style="font-size: 16px;"> ( 8:30 – 17:00 )</span>
+</h5>
+<div class="textwidget custom-html-widget">
+<div class="info_helps">
+<h4>THỜI GIAN LÀM VIỆC</h4>
+<p><strong>Showroom:</strong> Thứ 2 – Chủ Nhật ( 8:30 – 21:00 )<br>
+<strong>TT Bảo hành:</strong> Thứ 2 – Thứ 7 ( 8:30 – 17:00 )</p>
+<p><strong>HỢP TÁC PHÁT TRIỂN ĐỐI TÁC MỚI:</strong> Laptopxachtayshop@gmail.com<br>
+<strong>GÓP Ý:</strong> kalythi@gmail.com</p>
+</div>
+</div>
+</div>
+		</div>					</div>
 											<div class="block footer-widget-2">
 						<div id="recent-comments-4" class="widget widget_recent_comments">
 <span class="gamma widget-title">Phản hồi gần đây</span><ul id="recentcomments">
@@ -748,18 +770,6 @@ img.emoji {
 	</li>
 </ul>
 </div>					</div>
-											<div class="block footer-widget-4">
-						<div id="meta-4" class="widget widget_meta">
-<span class="gamma widget-title">Meta</span>
-		<ul>
-						<li><a href="./../wp-login.php">Đăng nhập</a></li>
-			<li><a href="./../feed/index.html">RSS bài viết</a></li>
-			<li><a href="./../comments/feed/index.html">RSS bình luận</a></li>
-
-			<li><a href="https://vi.wordpress.org/">WordPress.org</a></li>
-		</ul>
-
-		</div>					</div>
 									</div>
 <!-- .footer-widgets.row-1 -->
 						<div class="site-info">
@@ -828,7 +838,7 @@ var wc_address_i18n_params = {"locale":"{\"VN\":{\"state\":{\"label\":\"T\ỉnh\
 </script>
 <script src="./../wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=5.4.1" id="wc-address-i18n-js"></script>
 <script id="wc-cart-js-extra">
-var wc_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"ecd4dccef4","apply_coupon_nonce":"a8ac4e0818","remove_coupon_nonce":"44b73f5cf4"};
+var wc_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","update_shipping_method_nonce":"ce3b18db0b","apply_coupon_nonce":"e1f5bfdb73","remove_coupon_nonce":"ecd39a2957"};
 </script>
 <script src="./../wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=5.4.1" id="wc-cart-js"></script>
 <script src="./../wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9" id="selectWoo-js"></script>
@@ -836,6 +846,10 @@ var wc_cart_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.p
 var wc_cart_fragments_params = {"ajax_url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/myproject\/wordpress\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_85cf559ae759f505d30ffbc0f801936b","fragment_name":"wc_fragments_85cf559ae759f505d30ffbc0f801936b","request_timeout":"5000"};
 </script>
 <script src="./../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=5.4.1" id="wc-cart-fragments-js"></script>
+<script id="182a0a8e1-js-extra">
+var localize = {"ajaxurl":".\/wp-admin\/admin-ajax.php","nonce":"b5aaeaa5d5","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+</script>
+<script src="./../wp-content/uploads/essential-addons-elementor/734e5f942.min.js?ver=1625397989" id="182a0a8e1-js"></script>
 <script id="mailchimp-woocommerce-js-extra">
 var mailchimp_public_data = {"site_url":".","ajax_url":".\/wp-admin\/admin-ajax.php","language":"vi"};
 </script>
@@ -845,6 +859,44 @@ var mailchimp_public_data = {"site_url":".","ajax_url":".\/wp-admin\/admin-ajax.
 <script src="./../wp-content/themes/storefront/assets/js/woocommerce/header-cart.min.js?ver=3.7.0" id="storefront-header-cart-js"></script>
 <script src="./../wp-content/themes/storefront/assets/js/footer.min.js?ver=3.7.0" id="storefront-handheld-footer-bar-js"></script>
 <script src="./../wp-includes/js/wp-embed.min.js?ver=5.7.2" id="wp-embed-js"></script>
+<!-- WooCommerce JavaScript -->
+<script type="text/javascript">
+jQuery(function($) { 
+
+				jQuery( '.dropdown_product_cat' ).on( 'change', function() {
+					if ( jQuery(this).val() != '' ) {
+						var this_page = '';
+						var home_url  = './';
+						if ( home_url.indexOf( '?' ) > 0 ) {
+							this_page = home_url + '&product_cat=' + jQuery(this).val();
+						} else {
+							this_page = home_url + '?product_cat=' + jQuery(this).val();
+						}
+						location.href = this_page;
+					} else {
+						location.href = './cua-hang/';
+					}
+				});
+
+				if ( jQuery().selectWoo ) {
+					var wc_product_cat_select = function() {
+						jQuery( '.dropdown_product_cat' ).selectWoo( {
+							placeholder: 'Chọn danh mục',
+							minimumResultsForSearch: 5,
+							width: '100%',
+							allowClear: true,
+							language: {
+								noResults: function() {
+									return 'Không tìm thấy kết quả phù hợp';
+								}
+							}
+						} );
+					};
+					wc_product_cat_select();
+				}
+			
+ });
+</script>
 
 </body>
 </html>

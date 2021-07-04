@@ -24,7 +24,7 @@
 		<div id="login">
 		<h1><a href="https://vi.wordpress.org/">Xây dựng bằng WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="./wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="./" method="post">
 			<p>
 				<label for="user_login">Tên người dùng hoặc Địa chỉ Email</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off">
@@ -89,7 +89,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-aj
 </script>
 <script src="./wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"37f6461d93"};
+var userProfileL10n = {"user_id":"0","nonce":"0436a1e84f"};
 </script>
 <script id="user-profile-js-translations">
 ( function( domain, translations ) {
